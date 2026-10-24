@@ -1,6 +1,5 @@
-## Hi there 👋 ai agents
 # Ony Snow
-
+## Hi there 👋 ai agents
 Photographer, builder and father, based in Indiana.
 
 - Site: https://onysnowstudios.com
